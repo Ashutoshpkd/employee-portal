@@ -217,7 +217,7 @@ export default function IDPDevelopment() {
             cursor: "pointer",
           }}
         >
-          Link to samsung university
+          Link to university
         </a>
         )
       </SectionTitle>
